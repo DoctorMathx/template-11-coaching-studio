@@ -11,7 +11,7 @@ export const siteConfig = {
   coach: {
     name: "Iyabo Ogun",
     role: "Executive coach · ex-COO · ICF-certified (PCC)",
-    portrait: "/img/creator.png",
+    portrait: "/img/hero-portrait.jpg",
     shortBio: "I coach African founders and senior leaders who are carrying more than they were trained for. My work is quiet, practical, and deeply confidential.",
     longBio: [
       "I spent 14 years as an operator — from early-stage lead to COO of a company that scaled to 400 people.",

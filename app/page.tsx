@@ -103,7 +103,7 @@ export default function HomePage() {
           </div>
           <div className="lg:col-span-7">
             <div className="relative aspect-[5/4] rounded-3xl overflow-hidden bg-canvas border border-line">
-              <Image src="/img/team-boardroom.png" alt="A private session" fill sizes="(max-width:1024px) 100vw, 55vw" className="object-cover" />
+              <Image src="/img/hero-scene.jpg" alt="A private session" fill sizes="(max-width:1024px) 100vw, 55vw" className="object-cover" />
             </div>
           </div>
         </div>
